@@ -1,0 +1,5 @@
+1. True arrays and lists with {} and []
+2. Better arithmetic
+3. Possibly int and float types
+4. Always print return code if used interactively
+5. Written in rust?
